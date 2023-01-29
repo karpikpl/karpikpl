@@ -1,6 +1,15 @@
 ### Hi there 👋
+I work for Microsoft and whenver I'm able to, I like to contribute to open-source.
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=karpikpl&count_private=true&show_icons=true)
+## Some stats
+
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=karpikpl&count_private=true&show_icons=true&theme=dark&hide_border=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karpikpl&theme=dark&hide_border=true)](https://davidpine.net)
+
+[![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karpikpl&theme=dark&hide_border=true&layout=compact&hide=html,CSS,PowerShell&langs_count=9)](https://davidpine.net)
+
+
 <!--
 **karpikpl/karpikpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
